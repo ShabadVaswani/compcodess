@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 #define for0(i,x) for(int i = 0; i < x; i++)
 #define endl "\n"
